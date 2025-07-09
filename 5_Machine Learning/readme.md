@@ -46,19 +46,21 @@ This repository contains comprehensive examples of both **supervised** and **uns
 
 ## 📁 Folder Structure
 
-├── supervised/
-│   ├── Linear_Regression.ipynb
-│   ├── Logistic_Regression.ipynb
-│   ├── KNN.ipynb
-│   ├── Decision_Tree.ipynb
-│   ├── Random_Forest.ipynb
-│   ├── SVM.ipynb
-│   └── Naive_Bayes.ipynb
-└── unsupervised/
-    ├── kmeans_clustering.py
-    ├── hierarchical_clustering.py
-    ├── dbscan.py
-    └── pca.py
+supervised/
+├── Linear_Regression.ipynb
+├── Logistic_Regression.ipynb
+├── KNN.ipynb
+├── Decision_Tree.ipynb
+├── Random_Forest.ipynb
+├── SVM.ipynb
+└── Naive_Bayes.ipynb
+
+unsupervised/
+├── kmeans_clustering.py
+├── hierarchical_clustering.py
+├── dbscan.py
+└── pca.py
+
 ---
 
 ## ✨ Author
