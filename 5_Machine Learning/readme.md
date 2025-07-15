@@ -43,7 +43,7 @@ This repository contains comprehensive examples of both **supervised** and **uns
 - `CountVectorizer`
 
 ---
-
+```
 ## 📁 Folder Structure
 
 supervised/
@@ -60,7 +60,7 @@ unsupervised/
 ├── hierarchical_clustering.py
 ├── dbscan.py
 └── pca.py
-
+```
 ---
 
 ## ✨ Author
