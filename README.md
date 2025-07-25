@@ -167,7 +167,7 @@ Explore each module’s concepts, practice areas, and tools below. Each folder c
 
 ---
 
-## 🌐 Powered by [iCodeGuru](https://icode.guru/)
+## Built as part of the  [iCodeGuru](https://icode.guru/) Python & AI Bootcamp
 
 > *“Learn by building. Master by sharing.”*  
 > Designed for developers, data enthusiasts, and aspiring AI engineers.
