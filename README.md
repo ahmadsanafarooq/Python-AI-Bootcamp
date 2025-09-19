@@ -150,8 +150,40 @@ Explore each module’s concepts, practice areas, and tools below. Each folder c
 
 > 📚 **Before transformers, came the classics.**
 
-### Module 11 – Gradio & Streamlit for AI App Deployment  
-### Module 12 – GenAI Projects: RAG, Agents, and Multimodal Systems  
+---
+### 🎨 Module 11: Generative AI with Gradio & Streamlit  
+
+**Hands-On Projects:**  
+- Build **Text-to-Image Generator** with Stable Diffusion 
+- Deploy custom models using **Gradio UI**  
+- Build **AI dashboards** with Streamlit  
+
+**Skills Gained:**  
+- Hosting ML models in the browser  
+- Interactive AI app design  
+- Sharing and deploying apps on Hugging Face Spaces  
+
+> 🌐 **From local models → to user-friendly AI apps.**
+
+---
+
+### 🤖 Module 12: Agentic AI  
+
+**Submodules & Practice Areas:**  
+
+- **01_N8N Automation Agents**  
+  - No-code workflows for AI agents  
+  - Connecting APIs and automation flows  
+
+- **02_Agents with LangChain**  
+  - Building task-specific AI agents  
+  - RAG-based agents for knowledge retrieval  
+  - Tool-using agents with memory  
+
+- **03_Multiple Agents with CrewAI**  
+  - Multi-agent collaboration frameworks  
+  - Role assignment and task orchestration  
+  - Real-world simulations with CrewAI  
 ---
 
 ## 🧰 Tools & Frameworks
@@ -162,7 +194,8 @@ Explore each module’s concepts, practice areas, and tools below. Each folder c
 | **Data Analysis**    | Pandas, NumPy                                  |
 | **Visualization**    | Matplotlib, Seaborn, Plotly                    |
 | **ML/DL**            | Scikit-learn, TensorFlow, Keras                |
-| **NLP & GenAI**      | NLTK, Hugging Face Transformers, LangChain     |
+| **NLP & GenAI**      | NLTK, Hugging Face Transformers, GEN AI Apps   |
+| **Agentic AI**       | N8N, LangChain, CrewAI                         |
 | **Utilities**        | Jupyter, VSCode, Git                           |
 
 ---
