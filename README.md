@@ -198,7 +198,7 @@ Explore each module’s concepts, practice areas, and tools below. Each folder c
 | **ML/DL**            | Scikit-learn, TensorFlow, Keras                |
 | **NLP & GenAI**      | NLTK, Hugging Face Transformers, GEN AI Apps   |
 | **Agentic AI**       | N8N, LangChain, CrewAI                         |
-| **Utilities**        | Jupyter, VSCode, Git                           |
+| **Utilities**        | Jupyter, VSCode, Git, Coolab                   |
 
 ---
 
