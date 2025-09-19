@@ -183,7 +183,9 @@ Explore each module’s concepts, practice areas, and tools below. Each folder c
 - **03_Multiple Agents with CrewAI**  
   - Multi-agent collaboration frameworks  
   - Role assignment and task orchestration  
-  - Real-world simulations with CrewAI  
+  - Real-world simulations with CrewAI
+    
+> 🕹️ **From single-task bots → to autonomous, multi-agent systems.**
 ---
 
 ## 🧰 Tools & Frameworks
